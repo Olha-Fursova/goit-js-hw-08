@@ -32,8 +32,8 @@ Each task is implemented in a separate file inside the project folder:
 
 goit-js-hw-08/ 
 
-├── css
-│ ├── styles.css
+├── css/  
+│ ├── styles.css  
 ├── js/   
 │ └── gallery.js  
 ├── index.html  
